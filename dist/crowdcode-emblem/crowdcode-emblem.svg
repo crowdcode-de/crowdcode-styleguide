@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crowdcode-emblem" fill-rule="nonzero">
+            <g id="Ebene-1">
+                <path d="M0.5,18.9 L14.8,36.9 L19.4,51.7 L11.1,54.4 L0.5,51.7 L5.8,42.4 C8.3,38 8.3,32.6 5.8,28.2 L0.5,18.9 Z" id="Shape" fill="#4CB9EA"></path>
+                <path d="M19.4,18.9 L24.8,28.2 C27.3,32.6 27.3,38 24.8,42.4 L19.4,51.7 L0.5,18.9 L11.5,15 L19.4,18.9 Z" id="Shape" fill="#0080C9"></path>
+                <path d="M52.1,0 L35.8,15.6 L19.4,19 L16.2,10.5 L19.4,0.1 L28.7,5.5 C33.1,8 38.5,8 42.9,5.5 L52.1,0 Z" id="Shape" fill="#0080C9"></path>
+                <path d="M52.1,18.9 L42.8,24.3 C38.4,26.8 33,26.8 28.6,24.3 L19.3,18.9 L30.8,12.4 L52.1,0 L55.9,10.8 L52.1,18.9 Z" id="Shape" fill="#4CB9EA"></path>
+                <polygon id="Shape" fill="#4CB9EA" points="19.4 0 0.5 18.9 19.4 18.9 19.4 9.1"></polygon>
+                <path d="M71.1,51.7 L56.4,39.5 L52.1,18.9 L60,15.5 L71,18.9 L65.7,28.2 C63.2,32.6 63.2,38 65.7,42.4 L71.1,51.7 Z" id="Shape" fill="#0069B4"></path>
+                <path d="M52.1,51.7 L46.8,42.4 C44.3,38 44.3,32.6 46.8,28.2 L52.2,18.9 L71.1,51.7 L61,55.4 L52.1,51.7 Z" id="Shape" fill="#1A4B7E"></path>
+                <path d="M19.4,70.6 L35.3,55.7 L52.2,51.7 L56.8,59.6 L52.2,70.6 L42.9,65.2 C38.5,62.7 33.1,62.7 28.7,65.2 L19.4,70.6 Z" id="Shape" fill="#1A4B7E"></path>
+                <path d="M19.4,51.7 L28.7,46.3 C33.1,43.8 38.5,43.8 42.9,46.3 L52.2,51.7 L19.4,70.6 L15.5,61.2 L19.4,51.7 Z" id="Shape" fill="#0069B4"></path>
+                <polygon id="Shape" fill="#0069B4" points="52.1 70.6 71.1 51.7 52.1 51.7"></polygon>
+                <polygon id="Shape" fill="#0080C9" points="71.1 18.9 52.1 0 52.1 18.9"></polygon>
+                <polygon id="Shape" fill="#1A4B7E" points="19.4 70.6 19.4 51.7 0.5 51.7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
